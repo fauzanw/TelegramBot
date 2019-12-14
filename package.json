@@ -1,0 +1,13 @@
+{
+  "name": "TelegramBot",
+  "version": "1.0.0",
+  "description": "Simple Telegram Bot",
+  "main": "TelegramBot.js",
+  "author": "Muhammad Fauzan @dominic404",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "dbot-js": "^1.0.2",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}

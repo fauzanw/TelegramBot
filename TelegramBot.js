@@ -1,5 +1,6 @@
 const Telegram = require('node-telegram-bot-api');
 const dbot     = require('dbot-js');
+const dotenv   = require('dotenv').config();
 const token    = process.env.TELEGRAM_TOKEN;
 
 const bot      = new Telegram(token, {

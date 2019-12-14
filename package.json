@@ -8,6 +8,7 @@
   "private": false,
   "dependencies": {
     "dbot-js": "^1.0.2",
+    "dotenv": "^8.2.0",
     "node-telegram-bot-api": "^0.40.0"
   }
 }

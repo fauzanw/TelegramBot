@@ -13,7 +13,7 @@ user@host:~/$ cd TelegramBot
 ```
 Installing dependencies
 ```sh
-user@host:~/TelegramBot$ yarn add
+user@host:~/TelegramBot$ yarn install
 ```
 
 ## Configure
